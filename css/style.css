@@ -1,0 +1,17 @@
+header{
+    background-color: #808080;
+    border: 2px solid black;
+}
+#tag1,#t1{
+    text-align: center;
+}
+.section1{
+    margin: 10px;
+    text-align: center;
+    background-color: #808080;
+    font-weight: bold;
+}
+a{
+    color: greenyellow;
+}
+
